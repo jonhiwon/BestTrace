@@ -6,6 +6,10 @@
 curl -s https://raw.githubusercontent.com/BaeKey/BestTrace/master/BestTraceTest.sh | bash
 ```
 
+结果说明可以参考：[Windows 和 Linux 下路由跟踪命令](https://v2try.com/archives/107.html)
+
+对于默认禁PING的路由跳跃点显示结果隐藏了
+
 
 # 网络介绍
 
