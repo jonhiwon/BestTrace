@@ -10,6 +10,10 @@ curl -s https://raw.githubusercontent.com/BaeKey/BestTrace/master/BestTraceTest.
 
 对于默认禁PING的路由跳跃点显示结果隐藏了
 
+如果是去程测试的（从你所在的地方到服务器的路由）
+
+可以使用在线服务：[TraceRoute查询](https://tools.ipip.net/traceroute.php)，或者在该网站底部下载对应平台的工具进行本地测试
+
 
 # 网络介绍
 
